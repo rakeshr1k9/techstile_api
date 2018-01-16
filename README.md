@@ -1,2 +1,2 @@
 # techstile_api
-api for the techstile app
+In this project, we maintain the code for the api for the techstile app
