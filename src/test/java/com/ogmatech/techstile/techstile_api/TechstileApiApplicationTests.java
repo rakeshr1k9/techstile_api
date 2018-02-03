@@ -1,4 +1,4 @@
-package in.ogmatech.techstile.techstile_api;
+package com.ogmatech.techstile.techstile_api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
